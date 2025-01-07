@@ -2,8 +2,8 @@ package bot
 
 import (
 	"fmt"
-	"github.com/eatmoreapple/openwechat"
-	"github.com/your_project/internal/handlers"
+	"github.com/Ekko0708/wechatBot/internal/handlers"
+	
 )
 
 func StartBot() {
